@@ -1,53 +1,53 @@
 .todo {
-    padding-bottom: 20px;
-    width: 500px;
-    background-color: #65a4a6;
-    font-family: 'Shadows Into Light', cursive;
+  padding-bottom: 20px;
+  width: 500px;
+  background-color: #65a4a6;
+  font-family: "Shadows Into Light", cursive;
 }
 
 .title {
-    margin: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    font-size: 30px;
-    text-align: center;
-    background-color: #fffddf;
-    border-radius: 0 0 20px 20px;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #fffddf;
+  border-radius: 0 0 20px 20px;
 }
 
 .data {
-    margin-top: 30px;
+  margin-top: 30px;
 }
 
 .input {
-    font-family: 'Roboto', sans-serif;
-    background-color: #fffddf;
-    font-size: 18px;
-    display: block;
-    margin: 0 auto;
-    width: 60%;
-    box-sizing: border-box;
-    padding: 20px 0 10px 10px;
-    border: 0;
-    outline: none;
+  font-family: "Roboto", sans-serif;
+  background-color: #fffddf;
+  font-size: 18px;
+  display: block;
+  margin: 0 auto;
+  width: 60%;
+  box-sizing: border-box;
+  padding: 20px 0 10px 10px;
+  border: 0;
+  outline: none;
 }
 
 .btn {
-    font-family: 'Roboto', sans-serif;
-    border: 0;
-    cursor: pointer;
-    background-color: white;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 30px ;
-    margin: 0 auto;
-    margin-top: 20px;
-    border: 1px solid white;
-    transition: .2s all linear;
-    margin-bottom: 20px;
+  font-family: "Roboto", sans-serif;
+  border: 0;
+  cursor: pointer;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 30px;
+  margin: 0 auto;
+  margin-top: 20px;
+  border: 1px solid white;
+  transition: 0.2s all linear;
+  margin-bottom: 20px;
 }
-.btn:hover{
-    background-color: transparent;
-    border: 1px solid #fffddf;
+.btn:hover {
+  background-color: transparent;
+  border: 1px solid #fffddf;
 }
