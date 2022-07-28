@@ -1,0 +1,30 @@
+.task{
+    background-color: #fffddf;
+    border-radius: 10px;
+    padding: 10px 2px 10px 2px;
+    margin-bottom: 20px;
+}
+.taskflex{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: space-between;
+}
+.close{
+    border: 0;
+    background-color: transparent;
+    width: 20px;
+    height: 20px;
+    background-image: url(../../../img/close.png);
+    background-position: center center;
+    background-size: 20px 20px;
+    background-repeat: no-repeat;
+}
+.title{
+    margin: 0;
+    font-size: 20px;
+}
+.text{
+    margin: 0;
+    font-family: Roboto;
+}
