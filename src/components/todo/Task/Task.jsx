@@ -7,7 +7,7 @@ function Task(props) {
       <div className={s.taskflex}>
         <h3 className={s.title}>Task</h3>
         <button
-          onClick={props.removeTask(props.tasks.id)}
+          onClick={() => props.removeTask(props.tasks.id)}
           className={s.close}
         ></button>
       </div>
